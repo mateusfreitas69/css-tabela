@@ -1,0 +1,35 @@
+h1 {
+
+    color: brown;
+    font-size: 90px;
+}
+
+.titulo {
+
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+
+    border: 3px solid black;
+    border-collapse: collapse;
+    font-size: 50px;
+
+}
+
+td {
+    border: 3px solid black;
+    width: 100px;
+    text-align: center;
+
+}
+
+.titulotabela {
+
+    background-color: gray;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
